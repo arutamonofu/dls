@@ -1,0 +1,7 @@
+{
+  "use_tda": false,
+  "density_std": 0.5755,
+  "threshold": 0.7,
+  "radius_angstrom": 2.3,
+  "subset_size": 1000
+}
