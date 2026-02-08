@@ -1,2 +1,7 @@
 train_on_kaggle.ipynb
 notebooks/illustrations_for_readme.ipynb
+data/raw/qm9_v3.pt
+data/processed/pre_transform.pt
+.gitignore
+data/processed/data_v3.pt
+data/processed/pre_filter.pt
